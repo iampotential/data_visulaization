@@ -6,7 +6,7 @@ import plotly.offline as pyo
 import plotly.figure_factory as ff
 import plotly.graph_objs as go
 import numpy as np
-import pandas as pd 
+
 ###init_notebook_mode(connected=True)
 
 for i in range(0,len(pd.unique(dfc['SOMETHINGHERE']))):
